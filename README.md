@@ -39,7 +39,7 @@ The UI is built with **React + Vite + Tailwind CSS + Framer Motion**, and the ba
 - cookie-parser
 
 
-## ⚙️ Environment Variables
+## Environment Variables
 
 Create a `.env` file inside the **backend** folder and add:
 
